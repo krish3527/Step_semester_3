@@ -1,4 +1,4 @@
-# Step_semester_3
+
 # STEP Semester 3 – Java Programming
 
 This repository contains my **Semester 3 STEP Java programming practice, assignments, and Object-Oriented Programming (OOP) implementations**.
